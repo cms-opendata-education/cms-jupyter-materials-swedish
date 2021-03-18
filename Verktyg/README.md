@@ -1,8 +1,8 @@
-# Työkalut tutuiksi
+# Lär dig våra verktyg
 
-Voit avata Jupyter Notebook -tiedoston MyBinderissa klikkaamalla ![Binder](https://mybinder.org/badge.svg) tai Google Colabissa klikkaamalla ![Colaboratory](https://github.com/cms-opendata-education/cms-jupyter-materials-finnish/blob/master/Kuvat/colab_icon.png?raw=true). 
+Du kan öppna en Jupyter Notebook-fil i MyBinder genom att klicka ![Binder](https://mybinder.org/badge.svg) Eller i Google Colab med ![Colaboratory](https://github.com/cms-opendata-education/cms-jupyter-materials-finnish/blob/master/Kuvat/colab_icon.png?raw=true). 
 
-#### Jupyter-aloitus-vain-harjoitus.ipynb [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cms-opendata-education/cms-jupyter-materials-finnish/master?filepath=TyokalutTutuiksi%2FJupyter-aloitus-vain-harjoitus.ipynb) [![Colaboratory](https://github.com/cms-opendata-education/cms-jupyter-materials-finnish/blob/master/Kuvat/colab_icon.png?raw=true)](https://colab.research.google.com/github/cms-opendata-education/cms-jupyter-materials-finnish/blob/master/TyokalutTutuiksi/Jupyter-aloitus-vain-harjoitus.ipynb)
+#### Introduktionsövning (Jupyter).ipynb [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cms-opendata-education/cms-jupyter-materials-swedish/master?filepath=Verktyg%2FIntroduktionsövning%20(Jupyter).ipynb) [![Colaboratory](https://github.com/cms-opendata-education/cms-jupyter-materials-finnish/blob/master/Kuvat/colab_icon.png?raw=true)](https://colab.research.google.com/github/cms-opendata-education/cms-jupyter-materials-swedish/blob/master/Verktyg/Introduktionsövning%20(Jupyter).ipynb)
 - Harjoittele Jupyter Notebookin käyttöä
 
 #### Jupyter-aloitus.ipynb [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cms-opendata-education/cms-jupyter-materials-finnish/master?filepath=TyokalutTutuiksi%2FJupyter-aloitus.ipynb) [![Colaboratory](https://github.com/cms-opendata-education/cms-jupyter-materials-finnish/blob/master/Kuvat/colab_icon.png?raw=true)](https://colab.research.google.com/github/cms-opendata-education/cms-jupyter-materials-finnish/blob/master/TyokalutTutuiksi/Jupyter-aloitus.ipynb)
