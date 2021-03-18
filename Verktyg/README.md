@@ -2,8 +2,8 @@
 
 Du kan öppna en Jupyter Notebook-fil i MyBinder genom att klicka ![Binder](https://mybinder.org/badge.svg) Eller i Google Colab med ![Colaboratory](https://github.com/cms-opendata-education/cms-jupyter-materials-finnish/blob/master/Kuvat/colab_icon.png?raw=true). 
 
-#### Introduktionsövning (Jupyter).ipynb [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cms-opendata-education/cms-jupyter-materials-swedish/HEAD?filepath=Verktyg%2FIntroduktions%C3%B6vning%20(Jupyter).ipynb) [![Colaboratory](https://github.com/cms-opendata-education/cms-jupyter-materials-finnish/blob/master/Kuvat/colab_icon.png?raw=true)](https://colab.research.google.com/github/cms-opendata-education/cms-jupyter-materials-swedish/blob/master/Verktyg/Introduktionsövning%20(Jupyter).ipynb)
-- Harjoittele Jupyter Notebookin käyttöä
+#### Introduktionsövning (Jupyter).ipynb [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cms-opendata-education/cms-jupyter-materials-swedish/HEAD?filepath=Verktyg%2FIntroduktions%C3%B6vning%20(Jupyter).ipynb) [![Colaboratory](https://github.com/cms-opendata-education/cms-jupyter-materials-finnish/blob/master/Kuvat/colab_icon.png?raw=true)](https://colab.research.google.com/github/cms-opendata-education/cms-jupyter-materials-swedish/blob/main/Verktyg/Introduktions%C3%B6vning%20(Jupyter).ipynb)
+- En kort övning för att testa att du kan grunderna för Notebook.
 
 #### Jupyter-aloitus.ipynb [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cms-opendata-education/cms-jupyter-materials-finnish/master?filepath=TyokalutTutuiksi%2FJupyter-aloitus.ipynb) [![Colaboratory](https://github.com/cms-opendata-education/cms-jupyter-materials-finnish/blob/master/Kuvat/colab_icon.png?raw=true)](https://colab.research.google.com/github/cms-opendata-education/cms-jupyter-materials-finnish/blob/master/TyokalutTutuiksi/Jupyter-aloitus.ipynb)
 - Ohjeet Jupyter Notebookien käyttöön
